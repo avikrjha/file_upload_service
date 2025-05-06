@@ -15,7 +15,7 @@ This project is a **File Upload Service that allows users to upload and download
 
 ## API Endpoints
 
-- **Upload File ** (POST `/api/v1/file/upload`)
+- **Upload File** (POST `/api/v1/file/upload`)
 - **Fetch File** (GET `/api/v1/file/:filename`)
 
 
